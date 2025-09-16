@@ -9,7 +9,7 @@ int main()
 	string name, address, phoneNumber;
 	// Storing (mostly) bogus info here
 	name = "Roman";
-	address = "1234 Main St, Anytown, USA";
+	address = "321 Groovy St, Funkytown, USA";
 	phoneNumber = "555-123-4567";
 	cout << name << endl;
 	cout << address << endl;
